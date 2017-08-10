@@ -21,7 +21,7 @@
     <string name="location">Akses Lokasi</string>
     <string name="password">Simpan Password</string>
     <string name="donate">Menyumbang</string>
-    <string name="donate_details">Jika anda suka Via browser anda bisa menyumbang untuk dukung kami.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
+    <string name="donate_details">Jika Anda suka Via browser Anda bisa menyumbang untuk dukung kami.\nAlipay: 2376688759@qq.com\nPayPal: wiar1824@gmail.com</string>
     <string name="orientation">Orientasi</string>
     <string name="orientation_system">Sistem</string>
     <string name="orientation_auto">Otomatis</string>
@@ -88,15 +88,15 @@
     <string name="block_ads">Blok Iklan</string>
     <string name="message_untrusted_certificate">Sertifikat dari situs ini tidak terpercaya. Tetap lanjutkan?</string>
     <string name="title_form_resubmission">Pengiriman ulang data formulir</string>
-    <string name="message_form_resubmission">Apakah anda ingin kirim ulang data?</string>
-    <string name="message_location">\nIngin menggunakan lokasi anda></string>
+    <string name="message_form_resubmission">Apakah Anda ingin kirim ulang data?</string>
+    <string name="message_location">\nIngin menggunakan lokasi Anda></string>
     <string name="action_allow">Izinkan</string>
     <string name="action_dont_allow">Tolak</string>
     <string name="title_sign_in">Masuk</string>
     <string name="hint_username">NamaPengguna</string>
     <string name="hint_password">Password</string>
     <string name="untitled">TanpaJudul</string>
-    <string name="image_auto">Tampilkan gambar via Wi-Fi</string>
+    <string name="image_auto">Tampilkan gambar lewat Wi-Fi</string>
     <string name="image_on">Blok gambar</string>
     <string name="image_off">Tampilkan gambar</string>
     <string name="title_file_chooser">Pemilih file</string>
@@ -121,8 +121,8 @@
     <string name="dialog_adblock_default">Blokiran Default</string>
     <string name="dialog_adblock_custom">Blokiran Kustom</string>
     <string name="dialog_adblock_download">Ini akan dipilih otomatis setelah download.\n\npath:</string>
-    <string name="dialog_adblock_custom_hint">\nJangan mengubah jalur file atau namanya. Anda dapat mengedit file ini untuk menyesuaikan daftar blok anda sendiri.</string>
-    <string name="setting_default">Atur Via sebagai Default Browser</string>
+    <string name="dialog_adblock_custom_hint">\nJangan mengubah jalur file atau namanya. Anda dapat mengedit file ini untuk menyesuaikan daftar blok Anda sendiri.</string>
+    <string name="setting_default">Atur Via sebagai Browser Default</string>
     <string name="toast_clear_defaults">Silahkan hapus default</string>
     <string name="toast_copy_url_successful">Salin link sukses</string>
     <string name="toast_copy_text_successful">Salin teks sukses</string>
@@ -143,7 +143,7 @@
     <string name="operation_goback">Kembali</string>
     <string name="operation_goforward">Maju</string>
     <string name="operation_find">Temukan di halaman</string>
-    <string name="settings_ad_rules">Iklan ditandai</string>
+    <string name="settings_ad_rules">Iklan ditAndai</string>
     <string name="settings_operation">Operasi</string>
     <string name="settings_privacy">Privasi</string>
     <string name="settings_advanced">Lebih lanjut</string>
@@ -168,13 +168,13 @@
     <string name="desc_filedic">file</string>
     <string name="desc_other">lainnya</string>
     <string name="msg_setgoogle">Atur Google sebagai mesin pencari sekarang?</string>
-    <string name="action_mark">Tandai sebagai Iklan</string>
+    <string name="action_mark">TAndai sebagai Iklan</string>
     <string name="settings_block">AdBlock</string>
-    <string name="dialog_confirm_block">Anda ingin menandai ini sebagai Iklan?</string>
+    <string name="dialog_confirm_block">Anda ingin menAndai ini sebagai Iklan?</string>
     <string name="do_not_track">Jangan lacak</string>
     <string name="get_more_rules">Dapatkan lebih banyak Aturan</string>
     <string name="add_rule">Tambah Aturan</string>
-    <string name="hint_tags">Tanda</string>
+    <string name="hint_tags">TAnda</string>
     <string name="clear_ad_rules">Bersihkan semua Aturan Iklan</string>
     <string name="color_mode">Mode warna</string>
     <string name="dialog_sure">Anda yakin ingin melakukan ini?</string>
@@ -254,16 +254,16 @@
 
     <string name="set_to_default">Ini akan disetel sebagi default setelah menggunakannya membuka link(%s), silahkan pilih via umtuk membuka link.</string>
 
-    <string name="quick_back_desc">Mungkin ada masalah kompatibilitas ketika Anda membuka saklar ini. Anda harus menutupnya ketika anda menemukannya kembali bekerja dengan baik.</string>
+    <string name="quick_back_desc">Mungkin ada masalah kompatibilitas ketika Anda membuka saklar ini. Anda harus menutupnya ketika Anda menemukannya kembali bekerja dengan baik.</string>
     <string name="sync_prompt">Ini akan menimpa bookmark dan pengaturan lokal Anda saat ini. Lanjutkan?</string>
-    <string name="upload_prompt">Ini akan mengupload bookmark dan pengaturan lokal anda saat ini. Lanjutkan?</string>
+    <string name="upload_prompt">Ini akan mengupload bookmark dan pengaturan lokal Anda saat ini. Lanjutkan?</string>
     <string name="none">Tidak ada</string>
     <string name="action_log">Log Jaringan</string>
     <string name="check_permission">Izin ditolak. Atur mereka di pengaturan sekarang?</string>
     <string name="need_permission_hint">Via membutuhkan izin berikut untuk memastikan bekerja.\n\n</string>
     <string name="storage_permission">Penyamaran: untuk mengunduh file dari browser dan mengimpor/mengekspor bookmark dll.\n\n</string>
-    <string name="location_permission">Lokasi: untuk situs seperti Google Maps, ini dinonaktifkan secara default dalam pengaturan dan menampilkan permintaan pop-up jika situs ingin menggunakan lokasi anda jika ini diaktifkan.\n\n</string>
-    <string name="phone_permission">Telepon: untuk mendapatkan info non-privasi perangkat Android anda dalam statistik sederhana dan mengumpulkan kesalahan kecuali ketika FC.\n\n</string>
+    <string name="location_permission">Lokasi: untuk situs seperti Google Maps, ini dinonaktifkan secara default dalam pengaturan dan menampilkan permintaan pop-up jika situs ingin menggunakan lokasi Anda jika ini diaktifkan.\n\n</string>
+    <string name="phone_permission">Telepon: untuk mendapatkan info non-privasi perangkat Android Anda dalam statistik sederhana dan mengumpulkan kesalahan kecuali ketika FC.\n\n</string>
     <string name="force_cancel">Paksa batal</string>
     <string name="restore_tabs_hint">Pulihkan tab yang tidak-tertutup terakhir kali?</string>
     <string name="restore_tabs">Pulihkan Tab saat Mulai</string>
@@ -293,8 +293,8 @@
     <string name="set_it_as_homepage">Atur ini sebagai HalamanRumah?</string>
     <string name="missing_webview">Android System WebView tidak terisntal dengan benar. Apakah Anda ingin menginstalnya sekarang?</string>
     <string name="install">Instal</string>
-    <string name="crash_hint">Mohon maaf terjadi crashing pada Via.</string>
-    <string name="upload_hint">Mohon maaf terjadi crashing pada Via. Tapi anda dapat mengupload log crash untuk membantu kami menjadi lebih baik. Upload sekarang?</string>
+    <string name="crash_hint">Mohon maaf terjadi crashing pada Browser Via.</string>
+    <string name="upload_hint">Mohon maaf terjadi crashing pada Browser Via. Tapi Anda dapat mengupload log crash untuk membantu kami menjadi lebih baik. Upload sekarang?</string>
     <string name="glean">Memungut</string>
     <string name="contact_us">Hubungi kami</string>
     <string name="official_website">Situs web resmi</string>
@@ -320,7 +320,7 @@
     <string name="toolbar_settings_hint">Klik (usap) tombol berikut untuk mengatur even tekan lama (usap), dan tekan lama untuk melihat apa yang telah ditetapkan.</string>
     <string name="action_modify">Modify</string>
     <string name="operation_hint">Gerakan, Kebiasaan pengopersian, dll</string>
-    <string name="empty_ads_mark_hint">Tidak ada iklan ditandai. \nAnda dapat menekan lama iklan di halaman web kemudian pilih \"Tandai sebagai Iklan\" untuk memblok. \nAtau cukup klik tombol berikut.</string>
+    <string name="empty_ads_mark_hint">Tidak ada iklan ditAndai. \nAnda dapat menekan lama iklan di halaman web kemudian pilih \"TAndai sebagai Iklan\" untuk memblok. \nAtau cukup klik tombol berikut.</string>
     <string name="empty_script_hint">Tidak ada script. \nAnda dapat mengklik tombol tambah untuk menambahkan script. \nAtau cukup klik tombol berikut.</string>
     <string name="adblock_info">%1$d iklan telah diblok, %2$s dihemat</string>
     <string name="disable">Matikan</string>
@@ -335,7 +335,7 @@
     <string name="skin_hide_search_part">Sembunyikan Bagian Pencarian</string>
     <string name="action_more">Lebih</string>
     <string name="action_exit">Keluar</string>
-    <string name="set_as_default">Atur sebagai browser default anda?</string>
+    <string name="set_as_default">Atur sebagai browser default Anda?</string>
     <string name="exit_incognito_title">Keluar Browsing Penyamaran</string>
     <string name="exit_incognito_dialog">Anda ingin menutup semua tab sebelum mematikan \"Penyamaran\"?</string>
     <string name="file_size">Ukuran file</string>
@@ -354,7 +354,7 @@
     <string name="easter_egg">Telur Paskah(Iklan)</string>
     <string name="action_click_to_view">Klik untuk Melihat</string>
     <string name="join_us">Bergabung dengan kami</string>
-    <string name="share_explanation">Berbagi terenkripsi: Hanya melihatnya dengan via via. \nBerbagi: bagikan link dari halaman saat ini.</string>
+    <string name="share_explanation">Berbagi terenkripsi: Hanya melihatnya dengan via. \nBerbagi: bagikan link dari halaman saat ini.</string>
     <string name="action_secret_share">Berbagi terenkripsi</string>
     <string name="action_normal_share">Berbagi</string>
     <string name="res_sniffer">Pengendus Sumber daya</string>
@@ -366,8 +366,8 @@
     <string name="resource_sniffer_hint">\nPS: lebih mudah mendapatkannya ketika musik atau video dimainkan.</string>
     <string name="action_download">Unduh</string>
     <string name="action_play_with_mxplayer">Mainkan dengan MXPlayer</string>
-    <string name="empty_username_info">Silahkan masukan nama pengguna anda.</string>
-    <string name="empty_password_info">Silahkan masukan password anda.</string>
+    <string name="empty_username_info">Silahkan masukan nama pengguna Anda.</string>
+    <string name="empty_password_info">Silahkan masukan password Anda.</string>
     <string name="offline_page_hint">Dibawah ini halaman tersimpan. Anda bisa membacanya tidak masalah apakah ada jaringan terhubung atau tidak.</string>
     <string name="history_page_hint_when_incognito">Anda telah masuk mode penyamaran. Riwayat baru tidak akan direkam.</string>
     <string name="action_preview">Pratinjau</string>
