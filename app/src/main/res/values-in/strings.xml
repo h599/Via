@@ -143,7 +143,7 @@
     <string name="operation_goback">Kembali</string>
     <string name="operation_goforward">Maju</string>
     <string name="operation_find">Temukan di halaman</string>
-    <string name="settings_ad_rules">Iklan ditAndai</string>
+    <string name="settings_ad_rules">Iklan ditandai</string>
     <string name="settings_operation">Operasi</string>
     <string name="settings_privacy">Privasi</string>
     <string name="settings_advanced">Lebih lanjut</string>
@@ -168,13 +168,13 @@
     <string name="desc_filedic">file</string>
     <string name="desc_other">lainnya</string>
     <string name="msg_setgoogle">Atur Google sebagai mesin pencari sekarang?</string>
-    <string name="action_mark">TAndai sebagai Iklan</string>
+    <string name="action_mark">Tandai sebagai Iklan</string>
     <string name="settings_block">AdBlock</string>
-    <string name="dialog_confirm_block">Anda ingin menAndai ini sebagai Iklan?</string>
+    <string name="dialog_confirm_block">Anda ingin menandai ini sebagai Iklan?</string>
     <string name="do_not_track">Jangan lacak</string>
     <string name="get_more_rules">Dapatkan lebih banyak Aturan</string>
     <string name="add_rule">Tambah Aturan</string>
-    <string name="hint_tags">TAnda</string>
+    <string name="hint_tags">Tag</string>
     <string name="clear_ad_rules">Bersihkan semua Aturan Iklan</string>
     <string name="color_mode">Mode warna</string>
     <string name="dialog_sure">Anda yakin ingin melakukan ini?</string>
@@ -320,7 +320,7 @@
     <string name="toolbar_settings_hint">Klik (usap) tombol berikut untuk mengatur even tekan lama (usap), dan tekan lama untuk melihat apa yang telah ditetapkan.</string>
     <string name="action_modify">Modify</string>
     <string name="operation_hint">Gerakan, Kebiasaan pengopersian, dll</string>
-    <string name="empty_ads_mark_hint">Tidak ada iklan ditAndai. \nAnda dapat menekan lama iklan di halaman web kemudian pilih \"TAndai sebagai Iklan\" untuk memblok. \nAtau cukup klik tombol berikut.</string>
+    <string name="empty_ads_mark_hint">Tidak ada iklan ditandai. \nAnda dapat menekan lama iklan di halaman web kemudian pilih \"Tandai sebagai Iklan\" untuk memblok. \nAtau cukup klik tombol berikut.</string>
     <string name="empty_script_hint">Tidak ada script. \nAnda dapat mengklik tombol tambah untuk menambahkan script. \nAtau cukup klik tombol berikut.</string>
     <string name="adblock_info">%1$d iklan telah diblok, %2$s dihemat</string>
     <string name="disable">Matikan</string>
